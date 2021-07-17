@@ -1,0 +1,5 @@
+doesn't publish the exsisting info
+deff page layout on publish 
+dones't load on publish 
+album-pics  loads only when as a draft and not on publish
+new-website
